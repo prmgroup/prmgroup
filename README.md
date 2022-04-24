@@ -1,6 +1,6 @@
 1. thank you for downloading KEKHACK from us
 
-2.Download kekhack.dll
+2. Download kekhack.dll
 
 3. Download ProcessHacker.exe
 
